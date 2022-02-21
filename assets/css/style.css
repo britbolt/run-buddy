@@ -183,6 +183,10 @@ body {
   }
 
   /*style trainers sectiom */
+  #your-trainers h2{
+      text-align:center;
+  }
+  
   .trainers {
       text-align: center;
       width: 900px;
