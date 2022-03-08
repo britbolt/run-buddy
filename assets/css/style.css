@@ -173,10 +173,13 @@ body {
       max-width: 100%;
   }
 
+  .step-text {
+      flex: 12;
+  }
+
   .step-text p {
       color: #39a6b2;
       font-size:18px;
-      flex: 12;
   }
 
   .step-text h4 {
@@ -289,7 +292,7 @@ body {
       color:#fce138;
   }
 
-.contact-form input, contact-form textarea {
+.contact-form input, .contact-form textarea {
     width: 100%;
     border: 1px solid #024e76;
     display: block;
